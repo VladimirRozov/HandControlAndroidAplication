@@ -1,2 +1,5 @@
+include ':protoc-gen-grpc-kotlin-0.2.0-jdk7'
+include ':grpc-kotlin-stub-lite-0.2.0'
+include ':grpc-kotlin-stub-0.2.0'
 include ':app'
 rootProject.name = "HandControl"

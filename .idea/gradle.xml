@@ -12,6 +12,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/grpc-kotlin-stub-0.2.0" />
+            <option value="$PROJECT_DIR$/grpc-kotlin-stub-lite-0.2.0" />
+            <option value="$PROJECT_DIR$/protoc-gen-grpc-kotlin-0.2.0-jdk7" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
